@@ -4,11 +4,11 @@ function App() {
   
 
   return (
-    <>
-      <div>
+    
+      <div className="text-3xl font-bold underline">
         hello welcome to Ashutosh
       </div>
-    </>
+    
   )
 }
 
